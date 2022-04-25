@@ -1,14 +1,16 @@
-# **Takım İsmi**
+# **UNITY Takım 18**
 
-Takım X
+Takım 18
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Efe Oral: Product Owner
+- Mert Gökçen Gültekin: Scrum Master
+- Ebrar Bakırtaş: Team Member/Developer
+- Firdes Beyzanur Şenocak: Team Member/Developer
+- Ahsen Beyza Özkul: Team Member/Developer
 
 ## Ürün İsmi
 
@@ -16,7 +18,7 @@ Takım X
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Movie App oyunumuz ile oyuncuları farklı ve gizemli bir yolculuğa çıkararak.
 
 ## Ürün Özellikleri
 
@@ -27,11 +29,10 @@ Takım X
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Oyun severler
+- Korku oyunu severler
+- Gizem ve bulmaca oyunlarını severler
+- 18 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
