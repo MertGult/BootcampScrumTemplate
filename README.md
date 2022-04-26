@@ -6,11 +6,11 @@ Takım 18
 
 ## Takım Elemanları
 
-- Efe Oral: Product Owner
+- Ahsen Beyza Özkul: Product Owner
 - Mert Gökçen Gültekin: Scrum Master
+- Efe Oral: Team Member/Developer
 - Ebrar Bakırtaş: Team Member/Developer
 - Firdes Beyzanur Şenocak: Team Member/Developer
-- Ahsen Beyza Özkul: Team Member/Developer
 
 ## Ürün İsmi
 
@@ -30,7 +30,7 @@ Takım 18
 ## Hedef Kitle
 
 - Oyun severler
-- Korku oyunu severler
+- Gerilim severler
 - Gizem ve bulmaca oyunlarını severler
 - 18 - 65 yaş arası kullanıcılar
 
