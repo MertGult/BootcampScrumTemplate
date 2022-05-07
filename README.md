@@ -74,7 +74,8 @@ Alınan kararlar:
 •	Bu taslakta haritaya gönderilen “dışlanmış” insanlar haritadaki materyalleri kullanarak içindeki elementlere (vahşi hayvan, diğer insanlar, yaratıklar vb.) karşı koyup hayatta kalarak kazanacağı bir hikayeye sahip olabileceği konuşuldu.
 •	Karakterimizi iyi yapmak için oyuna pasif kararlar eklenebileceği konuşuldu. Ayrıca bunun için farklı haritalar veya koşullar sunarak her oynanışta farklı deneyim sunmanın da eklenebileceği konuşuldu.
 •	Oyunda gündüz/gece dinamiklerinin olabileceği, duruma göre farklı etkinlikler veya farklı yaratıklar ortaya çıkabileceği konuşuldu. Gündüz daha çok biriktirme ve toplama aşaması olup geceleri de topladıklarımızla hayatta kalma gibi bir dinamiğin eklenebileceği tartışıldı.
-3-	Product Backlog Miro üzerinde güncellendi ve ekiple yapılacaklar paylaşıldı. Bu durumda:
+3-	Product Backlog Miro üzerinde güncellendi ve ekiple yapılacaklar paylaşıldı. 
+Bu durumda:
 •	Başlangıç harita tasarımı – Ebrar
 •	Hub + Store tasarımı – Efe
 •	Envanter + UI tasarımı – Beyzanur 
