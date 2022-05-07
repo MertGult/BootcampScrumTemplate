@@ -14,29 +14,30 @@ Takım 18
 
 ## Ürün İsmi
 
---Movie App--
+Survival of the Fallen
 
 ## Ürün Açıklaması
 
-- Movie App oyunumuz ile oyuncuları farklı ve gizemli bir yolculuğa çıkararak.
+Survival of the Fallen ile oyuncuları hayatta kalmanın derinliklerine ineceğimiz gerilim elementleriyle dolu ve hikayesiyle şaşırtacak bir oyun çıkarmayı planlıyoruz.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Gerilim sunan bir haritada hayvanlara, yaratıklara ve diğer insanlara karşı hayatta kalma mekanikleri
+- Gece/gündüz dinamikleri
+- Sürükleyici hikaye
+- Her oynanışta farklı deneyim sunan bir harita
+- Karakterimizi iyi veya kötü yapabilecek karar mekanizmaları
 
 ## Hedef Kitle
 
 - Oyun severler
 - Gerilim severler
-- Gizem ve bulmaca oyunlarını severler
+- Hayatta kalma oyunlarını sevenler
 - 18 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO4-qbAo=/)
 
 ---
 
@@ -52,7 +53,7 @@ Takım 18
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
