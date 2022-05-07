@@ -80,9 +80,6 @@ Alınan kararlar:
 •	Envanter + UI tasarımı – Beyzanur 
 Görevleri eklendi. Bir sonraki toplantımızda ilerlemeleri ve geri dönütleri göz önünde bulundurularak backlog tekrar düzenlenecek. 
 
-![image](https://user-images.githubusercontent.com/104387762/167259189-6ca82a18-7e23-4c8d-bcd8-be9de5be3584.png)
-
-
 - **Sprint Retrospective:**
   Oyun tasarımındaki sürecimiz değerlendirildi ve sürdürülebilirlik açısından developer ekibin iş birliğinde olması ve daha kolay çalışabilmesi adına Miro veya Slack üzerinden kullandıkları asset/framework/version bilgilerinin paylaşılabileceğine karar verildi.
 •	Ayrıca Daily Scrum’ın 10 dakikalık mesajlaşma şeklinde yapılacağı hatırlatıldı.
