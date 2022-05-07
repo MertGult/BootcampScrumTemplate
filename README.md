@@ -54,7 +54,7 @@ Survival of the Fallen ile oyuncuları hayatta kalmanın derinliklerine ineceği
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış olanları, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 1.Sprint]
-- Daily Scrum Notları 1.Sprint.docx 
+- https://github.com/MertGult/BootcampScrumTemplate/blob/c1753146ec49cd09c18b1c0e78b4431c0247a509/Daily%20Scrum%20Notlar%C4%B1%201.Sprint.docx 
 
 - **Sprint board update**: Sprint board screenshotları: 
 
