@@ -54,21 +54,38 @@ Survival of the Fallen ile oyuncuları hayatta kalmanın derinliklerine ineceği
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış olanları, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 1.Sprint]
-- https://github.com/MertGult/BootcampScrumTemplate/blob/c1753146ec49cd09c18b1c0e78b4431c0247a509/Daily%20Scrum%20Notlar%C4%B1%201.Sprint.docx 
+ https://github.com/MertGult/BootcampScrumTemplate/blob/c1753146ec49cd09c18b1c0e78b4431c0247a509/Daily%20Scrum%20Notlar%C4%B1%201.Sprint.docx 
 
 - **Sprint board update**: Sprint board screenshotları: 
-
+https://github.com/MertGult/BootcampScrumTemplate/blob/5a4efee188046b5eb6026fa2fb8aa69a96b6c333/Sprint%201%20Backlog.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/5a4efee188046b5eb6026fa2fb8aa69a96b6c333/Sprint%201%20Burndown.png 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+https://github.com/MertGult/BootcampScrumTemplate/blob/5a4efee188046b5eb6026fa2fb8aa69a96b6c333/Title%20Screen.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/main/Harita%201.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/main/Harita%202.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/main/Karakter.png 
 
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: 
+1-	Oyunun hayatta kalma ve gerilim üzerine olmasının daha verimli ve sürdürülebilir olacağına karar verildi. Bu bağlamda adının “Survival of the Fallen” olmasında karar kılındı.
+2-	Oyunun hikayesinin bir şirketin sürdürdüğü bir deney veya deneyin sonuçlarından ötürü olabileceğine dair bir taslak oluşturuldu. 
+•	Bu taslakta haritaya gönderilen “dışlanmış” insanlar haritadaki materyalleri kullanarak içindeki elementlere (vahşi hayvan, diğer insanlar, yaratıklar vb.) karşı koyup hayatta kalarak kazanacağı bir hikayeye sahip olabileceği konuşuldu.
+•	Karakterimizi iyi yapmak için oyuna pasif kararlar eklenebileceği konuşuldu. Ayrıca bunun için farklı haritalar veya koşullar sunarak her oynanışta farklı deneyim sunmanın da eklenebileceği konuşuldu.
+•	Oyunda gündüz/gece dinamiklerinin olabileceği, duruma göre farklı etkinlikler veya farklı yaratıklar ortaya çıkabileceği konuşuldu. Gündüz daha çok biriktirme ve toplama aşaması olup geceleri de topladıklarımızla hayatta kalma gibi bir dinamiğin eklenebileceği tartışıldı.
+3-	Product Backlog Miro üzerinde güncellendi ve ekiple yapılacaklar paylaşıldı. Bu durumda:
+•	Başlangıç harita tasarımı – Ebrar
+•	Hub + Store tasarımı – Efe
+•	Envanter + UI tasarımı – Beyzanur 
+Görevleri eklendi. Bir sonraki toplantımızda ilerlemeleri ve geri dönütleri göz önünde bulundurularak backlog tekrar düzenlenecek. 
+
+![image](https://user-images.githubusercontent.com/104387762/167259189-6ca82a18-7e23-4c8d-bcd8-be9de5be3584.png)
+
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  Oyun tasarımındaki sürecimiz değerlendirildi ve sürdürülebilirlik açısından developer ekibin iş birliğinde olması ve daha kolay çalışabilmesi adına Miro veya Slack üzerinden kullandıkları asset/framework/version bilgilerinin paylaşılabileceğine karar verildi.
+•	Ayrıca Daily Scrum’ın 10 dakikalık mesajlaşma şeklinde yapılacağı hatırlatıldı.
 
 -**Diğer Notlar**:
 - N/A
