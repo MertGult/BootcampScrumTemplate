@@ -45,7 +45,7 @@ Survival of the Fallen ile oyuncuları hayatta kalmanın derinliklerine ineceği
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
@@ -85,13 +85,45 @@ Görevleri eklendi. Bir sonraki toplantımızda ilerlemeleri ve geri dönütleri
   Oyun tasarımındaki sürecimiz değerlendirildi ve sürdürülebilirlik açısından developer ekibin iş birliğinde olması ve daha kolay çalışabilmesi adına Miro veya Slack üzerinden kullandıkları asset/framework/version bilgilerinin paylaşılabileceğine karar verildi.
 •	Ayrıca Daily Scrum’ın 10 dakikalık mesajlaşma şeklinde yapılacağı hatırlatıldı.
 
--**Diğer Notlar**:
-- N/A
-
 ---
 
 # Sprint 2
 
+- **Sprint Notları:** Sprint boyunca yapılanlar ve bir sonraki Sprint'te yapılacak olan görevler Miro'da Product Backlog'a işlendi. Kalan görevlerin son sprint'te tamamlanacağına karar verildi.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 2. Sprint'te de 100 puan ile devam edilmesine karar verilmiştir.
+
+- **Backlog düzeni ve Story seçimleri**: Haftalık yapılan toplantılar doğrultusunda task'lere karar verilmiş, atanan task'lerin puanları hesaplanmıştır. 1.Sprint'te tamamlanması karar verilen task'ler tamamlanmış, yenileri eklenmiştir. Tamamlanamayan task'lerin bir sonraki sprint'te tamamlanacağına karar verilmiştir.
+
+**Daily Scrum**: Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 1.Sprint]
+https://github.com/MertGult/BootcampScrumTemplate/blob/cbb151a75de8581442215c4864c81b6eb4adf055/Daily%20Scrum%20Notlar%C4%B1%202.Sprint.docx
+
+- **Sprint board update**: Sprint board screenshotları:
+https://github.com/MertGult/BootcampScrumTemplate/blob/df5265dbc01e2a26529af5aa51efb1055366472d/Sprint%202%20Miro%20Product%20backlog.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/df5265dbc01e2a26529af5aa51efb1055366472d/Sprint%202%20Burndown%20Chart.png
+
+- **Ürün Durumu**: Ekran görüntüleri:
+https://github.com/MertGult/BootcampScrumTemplate/blob/f0da262cb271d051ec5996345b18b78137484d86/Bas%CC%A7lang%C4%B1c%CC%A7%20haritas%C4%B1%201.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/f0da262cb271d051ec5996345b18b78137484d86/Bas%CC%A7lang%C4%B1c%CC%A7%20haritas%C4%B1%202.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/f0da262cb271d051ec5996345b18b78137484d86/Bas%CC%A7lang%C4%B1c%CC%A7%20haritas%C4%B1%203.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/f0da262cb271d051ec5996345b18b78137484d86/Can%20ve%20ac%CC%A7l%C4%B1k%20UI.png
+
+- **Sprint Review**:
+- 1-	Efe oyun haritasındaki ilerlemesini paylaştı ve böylece oyunumuzun büyük bir kısmı tamamlanmış oldu.
+- 2-	Efe tamamladığı haritayı Google drive’a aktardı ve Beyzanur üzerinde çalışmaya devam edecek.
+- 3-	Efe oyunun savaş mekanikleriyle ilgili çalışmalar yapacak: Silah tutma, elle saldırılar, karakter animasyonları.
+- 4-	Beyzanur oyuna saat, açlık gibi UI elementleri eklemek üzerine çalışacak. 
+- 5-	Ebrar oyunun ilk haritası olan orman kısmında çalışmalarına devam edecek. Bu kısım trailer’da da kullanılabilir.
+- 6-	Takas edilebilecek meyve/sebzeler için ormana çeşitli asset’ler eklenecek. Bu kaynaklar toplanıp eşya takasında kullanılabilecek.
+- 7-	Sabah/gece döngüsünde oyuncuyu biraz daha germek için siren veya kurt uluma sesleri eklenebilir.
+- 8-	Oyuna eklenebilecek yan görevler üzerine konuşuldu: Hikaye elementlerine göre X sayıda gizlenmiş eşya toplama, hayvanlarla savaşarak diş toplama, haritanın bir ucundaki kulübeye gidip elektriği aktive etme gibi görevler yapılabilir.
+
+- **Sprint Retrospective:**
+- Oyunun büyük bir kısmında ilerleme sağlandı. Tamamlananan oyunun hikaye ile desteklenmesi gerektiğine karar verildi.
+
+![image](https://user-images.githubusercontent.com/104387762/169693972-a0b4380b-5a4d-4d77-9938-dfc2a1b66b29.png)
 
 ---
 
