@@ -121,9 +121,7 @@ https://github.com/MertGult/BootcampScrumTemplate/blob/f0da262cb271d051ec5996345
 - 8-	Oyuna eklenebilecek yan görevler üzerine konuşuldu: Hikaye elementlerine göre X sayıda gizlenmiş eşya toplama, hayvanlarla savaşarak diş toplama, haritanın bir ucundaki kulübeye gidip elektriği aktive etme gibi görevler yapılabilir.
 
 - **Sprint Retrospective:**
-- Oyunun büyük bir kısmında ilerleme sağlandı. Tamamlananan oyunun hikaye ile desteklenmesi gerektiğine karar verildi.
-
-![image](https://user-images.githubusercontent.com/104387762/169693972-a0b4380b-5a4d-4d77-9938-dfc2a1b66b29.png)
+- Oyunun büyük bir kısmında ilerleme sağlandı. Tamamlananan oyunun bir sonraki Sprint'te hikaye ile desteklenmesi gerektiğine karar verildi.
 
 ---
 
