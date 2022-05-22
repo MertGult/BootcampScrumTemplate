@@ -95,7 +95,7 @@ Görevleri eklendi. Bir sonraki toplantımızda ilerlemeleri ve geri dönütleri
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 2. Sprint'te de 100 puan ile devam edilmesine karar verilmiştir.
 
-- **Backlog düzeni ve Story seçimleri**: Haftalık yapılan toplantılar doğrultusunda task'lere karar verilmiş, atanan task'lerin puanları hesaplanmıştır. 1.Sprint'te tamamlanması karar verilen task'ler tamamlanmış, yenileri eklenmiştir. Tamamlanamayan task'lerin bir sonraki sprint'te tamamlanacağına karar verilmiştir.
+- **Backlog düzeni ve Story seçimleri**: Haftalık yapılan toplantılar doğrultusunda task'lere karar verilmiş, atanan task'lerin puanları hesaplanmıştır. 1.Sprint'te tamamlanması karar verilen task'ler tamamlanmış, yenileri eklenmiştir. Task puanlamaları her bir task içinde "tag" olarak puanlanmış ve renkelrle kodlanmıştır. Tamamlanamayan task'lerin bir sonraki sprint'te tamamlanacağına karar verilmiştir.
 
 **Daily Scrum**: Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 1.Sprint]
 https://github.com/MertGult/BootcampScrumTemplate/blob/cbb151a75de8581442215c4864c81b6eb4adf055/Daily%20Scrum%20Notlar%C4%B1%202.Sprint.docx
