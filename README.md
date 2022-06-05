@@ -22,10 +22,9 @@ Survival of the Fallen ile oyuncuları hayatta kalmanın derinliklerine ineceği
 
 ## Ürün Özellikleri
 
-- Gerilim sunan bir haritada hayvanlara, yaratıklara ve diğer insanlara karşı hayatta kalma mekanikleri
-- Gece/gündüz dinamikleri
+- Gerilim sunan bir haritada hayvanlara ve diğer insanlara karşı hayatta kalma mekanikleri
+- Gerilim veren gece dinamikleri
 - Sürükleyici hikaye
-- Her oynanışta farklı deneyim sunan bir harita
 - Oyuna özel hayatta kalma mekanikleri
 
 
@@ -178,5 +177,7 @@ https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59
 
 
 - **Sprint Retrospective:** Tüm sprint boyunca iletişimde kalındı ve zaman sıkıntısından ötürü planlanan birçok öğeden vazgeçildi. Bu içerikler Game Design Document'ta anlatıldı ve oyunun sürdürebilirliğini kanıtlamak amacıyla ilerleyen zamanlarda oyuna ek içerik olarak eklenebileceği söylendi. 
+
+https://github.com/MertGult/BootcampScrumTemplate/blob/7e16e07033a02a11191509f327bab65742acb4b5/Survival%20of%20the%20Fallen%20GDD.pdf
 
 ---
