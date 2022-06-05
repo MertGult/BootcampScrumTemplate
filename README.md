@@ -26,14 +26,15 @@ Survival of the Fallen ile oyuncuları hayatta kalmanın derinliklerine ineceği
 - Gece/gündüz dinamikleri
 - Sürükleyici hikaye
 - Her oynanışta farklı deneyim sunan bir harita
-- Karakterimizi iyi veya kötü yapabilecek karar mekanizmaları
+- Oyuna özel hayatta kalma mekanikleri
+
 
 ## Hedef Kitle
 
 - Oyun severler
 - Gerilim severler
 - Hayatta kalma oyunlarını sevenler
-- 18 - 65 yaş arası kullanıcılar
+- 13 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
@@ -132,5 +133,30 @@ https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570
 ---
 
 # Sprint 3
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Haftalık yapılan toplantılar doğrultusunda task'lere karar verilmiş, atanan task'lerin puanları hesaplanmıştır. 1.Sprint'te tamamlanması karar verilen task'ler tamamlanmış, yenileri eklenmiştir. Task puanlamaları her bir task içinde "tag" olarak puanlanmış ve renkelrle kodlanmıştır. Tamamlanamayan task'lerin bir sonraki sprint'te rejected kısmına eklenmiştir.
+
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış olanları, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 3.Sprint]
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+- **Sprint Review**:
+
+- **Sprint Retrospective:**
+
+
+
 
 ---
