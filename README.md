@@ -145,18 +145,38 @@ https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış olanları, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 3.Sprint]
+https://github.com/MertGult/BootcampScrumTemplate/blob/ffb3ede6fffac8f15baf28ff8a09b4ec266fdb1c/Daily%20Scrum%20Notlar%C4%B1%203.Sprint.docx 
 
 
 - **Sprint board update**: Sprint board screenshotları: 
+https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/Sprint%203%20Product%20Backlog.png 
+https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/Sprint%203%20Burndown%20Chart.png
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+- Title Screen
+https://github.com/MertGult/BootcampScrumTemplate/blob/main/Title%20Screen.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/courtyard.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/third%20person.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/village.png 
+https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/wolves.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/moon.png
+https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/hunger%20meter.jpeg
+https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/nighttime%20timer.jpeg
+
 
 - **Sprint Review**:
+- 1- Ebrar: Oyunda kullanılacak not sistemini tamamladı. Notlara rakamlar yerleştirip bunları hazırladığı Keycard UI üzerinde kullanmayı sağladı. Oyuna puzzle oyunlarını ekledi.
+- 2- Ebrar: Ana menü tasarımını tamamladı. Menüye “Start Game, Sound On/Off, Exit” seçeneklerini ekledi ve arkaplana müzik ekledi.
+- 3- Beyzanur: Diyalog için UI hazırladı.
+- 4- Beyzanur: NPC’lere tuş tetikleyerek konuşulabilmesi için bir yöntem geliştirdi.
+- 5- Efe: Oyuna açlık metresi ekledi ve 0 olduğunda oyun siyah/beyaz oluyor. Düşmanlara yaklaştığında can azalması mekaniğini ekledi.
+- 6- Efe: Düşmanlara sadece vurulduğunda canlarının gitmesi üzerine çalıştı. Beyzanur’un gönderdiği UI oyuna ekledi. Ebrar’ın hazırladığı başlangıç haritasını oyuna ekledi. Oyun haritasının kuzeybatı kısmındaki kulübeye elektrik şalteri ekleyecek. Hapishanenin ön kısmına bir güvenlik kulübesi ekleyerek önündeki NPC ile konuşabilmemizi sağladı.
+- 7-	Mert: Oyunda hikayeyi anlatan diyalogları tamamladı. Oyunun ilerleyişini belirleyen diyaloglar üzerinde çalıştı.
+- 8-	Mert: Oyun için Game Design Document hazırladı.
+- 9-	Ahsen & Mert: Trailer planlaması yapacak. Hangi müziğin ekleneceği ve neler gösterileceğine dair planlamalar yapacak. Planlamalar Efe ile paylaşılıp trailer haline getirilmesi için çekimler yapılacak.
 
-- **Sprint Retrospective:**
 
-
-
+- **Sprint Retrospective:** Tüm sprint boyunca iletişimde kalındı ve zaman sıkıntısından ötürü planlanan birçok öğeden vazgeçildi. Bu içerikler Game Design Document'ta anlatıldı ve oyunun sürdürebilirliğini kanıtlamak amacıyla ilerleyen zamanlarda oyuna ek içerik olarak eklenebileceği söylendi. 
 
 ---
