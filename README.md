@@ -164,6 +164,7 @@ https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59
 https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/nighttime%20timer.jpeg
 https://github.com/MertGult/BootcampScrumTemplate/blob/e44461f9d3dbd46e9ba32bd70705a7e74eebe5f5/In%20game.jpeg
 https://github.com/MertGult/BootcampScrumTemplate/blob/e44461f9d3dbd46e9ba32bd70705a7e74eebe5f5/dialogue.jpeg
+https://github.com/MertGult/BootcampScrumTemplate/blob/e5e70fa3fea32d23dfdc30d8d40e211e295960c7/End%20Screen.png
 
 
 - **Sprint Review**:
