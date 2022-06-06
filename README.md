@@ -144,6 +144,7 @@ https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış olanları, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 3.Sprint]
+https://github.com/MertGult/BootcampScrumTemplate/blob/8300fc7ad1c820127b57041ccc09d88e86f2cc35/Daily%20Scrum%20Notlar%C4%B1%203.Sprint.docx
 
 
 
