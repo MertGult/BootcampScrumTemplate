@@ -144,7 +144,6 @@ https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış olanları, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 3.Sprint]
-https://github.com/MertGult/BootcampScrumTemplate/blob/8300fc7ad1c820127b57041ccc09d88e86f2cc35/Daily%20Scrum%20Notlar%C4%B1%203.Sprint.docx
 
 
 
@@ -181,6 +180,5 @@ https://github.com/MertGult/BootcampScrumTemplate/blob/e44461f9d3dbd46e9ba32bd70
 
 - **Sprint Retrospective:** Tüm sprint boyunca iletişimde kalındı ve zaman sıkıntısından ötürü planlanan birçok öğeden vazgeçildi. Bu içerikler Game Design Document'ta anlatıldı ve oyunun sürdürebilirliğini kanıtlamak amacıyla ilerleyen zamanlarda oyuna ek içerik olarak eklenebileceği söylendi. 
 
-https://github.com/MertGult/BootcampScrumTemplate/blob/7e16e07033a02a11191509f327bab65742acb4b5/Survival%20of%20the%20Fallen%20GDD.pdf
-
+https://github.com/MertGult/BootcampScrumTemplate/blob/6a11cbc71cb7d1982d8921fed5281d42b20fb6f2/Survival%20of%20the%20Fallen%20GDD.pdf 
 ---
