@@ -144,7 +144,7 @@ https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış olanları, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 3.Sprint]
-https://github.com/MertGult/BootcampScrumTemplate/blob/ffb3ede6fffac8f15baf28ff8a09b4ec266fdb1c/Daily%20Scrum%20Notlar%C4%B1%203.Sprint.docx 
+
 
 
 - **Sprint board update**: Sprint board screenshotları: 
@@ -162,6 +162,8 @@ https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59
 https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/moon.png
 https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/hunger%20meter.jpeg
 https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/nighttime%20timer.jpeg
+https://github.com/MertGult/BootcampScrumTemplate/blob/e44461f9d3dbd46e9ba32bd70705a7e74eebe5f5/In%20game.jpeg
+https://github.com/MertGult/BootcampScrumTemplate/blob/e44461f9d3dbd46e9ba32bd70705a7e74eebe5f5/dialogue.jpeg
 
 
 - **Sprint Review**:
