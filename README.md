@@ -40,7 +40,10 @@ Survival of the Fallen ile oyuncuları hayatta kalmanın derinliklerine ineceği
 [Miro Backlog Board](https://miro.com/app/board/uXjVO4-qbAo=/)
 
 - Codes Repo
-https://github.com/MertGult/survivalofthefallen
+- https://github.com/MertGult/survivalofthefallen
+
+- Assets Drive
+- https://1drv.ms/u/s!AoxS0cMTdCjjkke3iGyfLFM7USvj
 
 ---
 
